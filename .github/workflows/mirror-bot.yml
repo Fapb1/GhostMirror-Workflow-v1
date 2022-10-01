@@ -10,7 +10,7 @@ env:
   # Change these values if you have forked it for your own works
   GitHubMail: "fabpubg12@gmailcom"
   GitHubName: "fapb1" 
-  Branch: "heroku"
+  Branch: "master"
 
 jobs:
   build:
